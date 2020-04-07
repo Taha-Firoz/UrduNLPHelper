@@ -4,7 +4,7 @@ This tool is a simple gui that lets you view your urdu sentence and record it wi
 ## Features
 - Record, Redo and Save audio files
 - Convert Urdu text to Roman Urdu for easier readability (Unstable)
-- Easy shortcuts like `s key` to record/redo/stop  `n key or d key` to move to next sentence
+- Easy shortcuts like `s key` to record/redo/stop  `n key` or `d key` to move to next sentence
 
 ## Please run the following commands for windows installs:
 ```
