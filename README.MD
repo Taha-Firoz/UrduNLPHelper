@@ -1,3 +1,11 @@
+## Urdu Audio Dataset Generation Helper
+This tool is a simple gui that lets you view your urdu sentence and record it with ease, it stores each audio file witht he respective ID for the sentence. At the moment it's specifically made for NUCES NLP Urdu dataset file and there are no plans of expanding it.
+
+## Features
+- Record, Redo and Save audio files
+- Convert Urdu text to Roman Urdu for easier readability (Unstable)
+- Easy shortcuts like `s key` to record/redo/stop  `n key or d key` to move to next sentence
+
 ## Please run the following commands for windows installs:
 ```
 pip install -r requirements.txt
