@@ -7,7 +7,7 @@ This tool is a simple gui that lets you view your urdu sentence and record it wi
 - Easy shortcuts like `s key` to record/redo/stop  `n key` or `d key` to move to next sentence
 
 ## Please run the following commands for windows installs:
-You need the same version of [chrome driver](https://chromedriver.chromium.org/downloads) as your chrome browser version
+You need the same version of [chrome driver](https://chromedriver.chromium.org/downloads) as your chrome browser version. Keep the chrome driver executable in the same directory.
 ```
 pip install -r requirements.txt
 pipwin install pyaudio
